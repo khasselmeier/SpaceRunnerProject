@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: hasselmk@my.erau.edu
+  DevAccountToken: g133zp1nyoknaq1kdmn8s3xbryjd16ktdquqo6ufj3b868ze6xgfqiqz157r7nwfguob1zae15qrcxxpnycds8id1fph4k8bsysopm6tirzwz5hesyhozrgjjewcizaph756fc4hpd41888jxnyrchto3bson76djr4z816o5rp3tfx6zgiitzk6rti3htrwd9xtep57
+  AadAuthorization: 
+  SelectedStudio: SpaceRunner
+  SdkPath: Assets/PlayFabPlayerAuth/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: C:/Users/kbug0/OneDrive/Documents/Dev/PlayFabMulti/UnityBuild/Assets/PlayFabEditorExtensions/Editor/Resources/.CloudScript.js
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
